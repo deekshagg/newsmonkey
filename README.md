@@ -10,39 +10,32 @@
 
 ---
 
-**[Click me to go to TextUtils!](https://deekshagg.github.io/textutils/)**
+<!-- **[Click me to go to NewMokey!](https://deekshagg.github.io/textutils/)** -->
 
 ### _Features-_
 
-    - to UpperCase the user input
-    - to LowerCase the user input
-    - to count numbers of Words and Characters
-    - to know the average reading time span
-    - to get a preview of user text input
-    - to clear the whole text in textArea
-    - to copy the text after utilities
-    - to paste the text in box
-    - to remove extra spaces in the text
+    - Fetch all type of News from API
+    - added infinite scroll bar
+    - added top loading bar
 ---
-
-### _Other features-_
-
-    - Enable DarkMode
-    - Added Alerts on every action of user
 
 ---
 
-## **General News**
+## **Project Snippets**
 
-![General News](https://drive.google.com/file/d/1k3ia-FdeKVOEvKL0h_T1iCsSkRMGzdL8/view?usp=sharing)
+![General News](/assests/general.png)
 
 ## **Business News**
 
-![Business News](https://drive.google.com/file/d/1mLcnZ5AZArwp11BuWCR29UushybCkFYB/view?usp=sharing)
+![Business News](/assests/business.png)
 
 ## **Entertainment News**
 
-![Entertainment News](https://drive.google.com/file/d/1Qkldgo4JJKP4SNKjHTmUIo_L9U_3zHwO/view?usp=sharing)
+![Entertainment News](/assests/entertainment.png)
+
+- - -
+
+### **_Thank You_**
 
 <!-- # Getting Started with Create React App
 
